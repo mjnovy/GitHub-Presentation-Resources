@@ -1,6 +1,6 @@
 # GitHub Presentation Resources 🥳
 <br>
-🍍 Welcome to the Visual Communications team repo! We are here to be your presentation support!🍍
+🍍 Welcome to the Visual Communications presentation resources repo! We are here to be your presentation support!🍍
 <br> 
 <br>
 Currently, we are in the process of growing our team so we can expand the resources and services we provide. In the meantime, we have created templates to help you design and develop presentations that are both on-brand and easy to use! Using these templates (available in both light and dark mode 🎉), you can focus on the points you are trying to communicate and craft your content knowing the design aspects of your presentation are easily accessible and already built-in. 
