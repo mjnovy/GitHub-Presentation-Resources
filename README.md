@@ -15,7 +15,7 @@ You can expect almost all of the same features between the Google Slides and Pow
 <br>
 
 ## PowerPoint Templates 
-💻 The PowerPoint light and dark mode presentation templates are available on [Google Drive](https://drive.google.com/drive/folders/1VWvx1oprxuXhyat1b3quiHxyv-g1G2SN) (You can also find them on [Primer](https://primer.style/presentations/presentation-formats/powerpoint) and [Guru](https://app.getguru.com/card/ik88kdLT/Accessing-and-using-slide-GitHub-Presentation-Template)) 
+💻 The PowerPoint light and dark mode presentation templates are available for download on [Google Drive](https://drive.google.com/drive/folders/1VWvx1oprxuXhyat1b3quiHxyv-g1G2SN) (You can also find them on [Primer](https://primer.style/presentations/presentation-formats/powerpoint) and [Guru](https://app.getguru.com/card/ik88kdLT/Accessing-and-using-slide-GitHub-Presentation-Template)) 
 <br><br>
 ⚠️ Please note: when presenting, be sure you are using the desktop version of PowerPoint 🚫 NOT the browser 🚫, our brand fronts do not display properly on any browser.
 <br><br>
