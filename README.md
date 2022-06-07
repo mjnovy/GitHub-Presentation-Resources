@@ -40,8 +40,8 @@ You can expect almost all of the same features between the Google Slides and Pow
 
 ![Instructions-02](https://user-images.githubusercontent.com/88731352/172302259-284eab5f-1207-4638-bb55-77b3e99a6e70.png)
 
+<br>
 
-
-## We want to hear from you! 
+## We want to hear from you! 🤩
 If you have any feedback on the templates or have suggestions on other tools you’d like to see from a presentation standpoint, please respond to our [presentation template survey.](https://docs.google.com/forms/d/e/1FAIpQLSf5NaHclDltYg7-n_NspxDDGsesYvrCJG-nP4YoGqT3sme0JA/viewform) 
 
